@@ -1,0 +1,31 @@
+  
+.card2{
+    height: 580px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.5) !important;
+}
+
+.inner-cover {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 580px;
+}
+
+.main{
+    background-image: url('https://images.hdqwalls.com/download/boat-moon-minimal-landscape-5k-3f-1920x1080.jpg') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.modal-content {
+    background-color:  #003140 !important;
+}
+
+.ul-list{
+    justify-content: left !important;
+    text-align: left;
+}
